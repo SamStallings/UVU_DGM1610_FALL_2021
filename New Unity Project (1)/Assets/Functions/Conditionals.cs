@@ -10,7 +10,7 @@ using UnityEngine;
             int y = 10;
             if (x > y)
             {
-            Console.WriteLine("Hello World");
+            print("Hello World");
             }
         }
 
